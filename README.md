@@ -12,7 +12,10 @@
 - 🌱 I’m currently learning Embedded Systems and Backend  
   
 
-- ⚡ Don't take life hard 🍷  
+- ⚡ Don't take life hard 🍷
+
+  
+- 💌 Feel free and if you have problem jest [Email](mhhashemi1379@gmail.com) me
   
 
 <br/>  
