@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mohammad, a Computer Vision and AI Developer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Fast Segmentation Models](https://github.com/Amahseyn/Fast_Segmentation)  
+- 🔭 I’m currently working on [Baby Voice Detection]([https://github.com/Amahseyn/Fast_Segmentation](https://github.com/Amahseyn/Baby_Voice_Detection))  
   
 
 - 🌱 I’m currently learning Embedded Systems and Backend  
