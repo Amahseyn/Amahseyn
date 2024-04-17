@@ -15,7 +15,7 @@
 - ⚡ Don't take life hard 🍷
 
   
-- 💌 Feel free and if you have problem jest [Email](https://mhhashemi1379@gmail.com) me
+- 💌 Feel free and if you have problem just [Email](https://mhhashemi1379@gmail.com) me
   
 
 <br/>  
