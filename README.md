@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mohammad, a Computer Vision and AI Developer👨‍💻 </div>  
+### <div align="center">I'm Edgar, a Computer Vision and AI Developer👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Baby Voice Detection]([https://github.com/Amahseyn/Fast_Segmentation](https://github.com/Amahseyn/Baby_Voice_Detection))  
@@ -15,7 +15,7 @@
 - ⚡ Don't take life hard 🍷
 
   
-- 💌 Feel free and if you have problem just [Email](https://mhhashemi1379@gmail.com) me
+- 💌 Feel free and if you have problem just [Email] me
   
 
 <br/>  
